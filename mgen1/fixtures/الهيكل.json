@@ -1,0 +1,50 @@
+[
+ {
+  "doctype": "الهيكل",
+  "name": "عضو فرع",
+  "structure_name": "عضو فرع",
+  "structure_level": "محلي"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "الكاتب الوطني",
+  "structure_name": "الكاتب الوطني",
+  "structure_level": "وطني"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "نائب الكاتب الوطني",
+  "structure_name": "نائب الكاتب الوطني",
+  "structure_level": "وطني"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "الكاتب العام الوطني",
+  "structure_name": "الكاتب العام الوطني",
+  "structure_level": "وطني"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "أمين المال الوطني",
+  "structure_name": "أمين المال الوطني",
+  "structure_level": "وطني"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "الكاتب الجهوي",
+  "structure_name": "الكاتب الجهوي",
+  "structure_level": "جهوي"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "الكاتب الإقليمي",
+  "structure_name": "الكاتب الإقليمي",
+  "structure_level": "إقليمي"
+ },
+ {
+  "doctype": "الهيكل",
+  "name": "الكاتب المحلي",
+  "structure_name": "الكاتب المحلي",
+  "structure_level": "محلي"
+ }
+]

@@ -1,0 +1,83 @@
+{
+ "add_total_row": 1,
+ "creation": "2025-01-23 16:27:02.000000",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [
+  {
+   "fieldname": "academic_year",
+   "fieldtype": "Data",
+   "label": "الموسم الدراسي",
+   "mandatory": 1,
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "region",
+   "fieldtype": "Link",
+   "label": "الجهة",
+   "mandatory": 0,
+   "options": "الجهة",
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "province",
+   "fieldtype": "Link",
+   "label": "الإقليم",
+   "mandatory": 0,
+   "options": "الاقليم",
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "from_date",
+   "fieldtype": "Date",
+   "label": "من تاريخ",
+   "mandatory": 0,
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "to_date",
+   "fieldtype": "Date",
+   "label": "إلى تاريخ",
+   "mandatory": 0,
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "structure",
+   "fieldtype": "Link",
+   "label": "الهيكل",
+   "mandatory": 0,
+   "options": "الهيكل",
+   "wildcard_filter": 0
+  },
+  {
+   "fieldname": "profession",
+   "fieldtype": "Link",
+   "label": "المهنة",
+   "mandatory": 0,
+   "options": "المهنة",
+   "wildcard_filter": 0
+  }
+ ],
+ "idx": 0,
+ "is_standard": "Yes",
+ "letter_head": "Standard",
+ "modified": "2025-01-23 16:27:02.000000",
+ "modified_by": "Administrator",
+ "module": "التسيير",
+ "name": "تقرير البطائق",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "عضو",
+ "report_name": "تقرير البطائق",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "All"
+  }
+ ]
+}

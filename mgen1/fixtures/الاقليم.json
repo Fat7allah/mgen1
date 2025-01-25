@@ -1,0 +1,72 @@
+[
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة طنجة",
+  "province_name": "عمالة طنجة",
+  "region": "جهة طنجة تطوان الحسيمة",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة تطوان",
+  "province_name": "عمالة تطوان",
+  "region": "جهة طنجة تطوان الحسيمة",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "إقليم الفحص أنجرة",
+  "province_name": "إقليم الفحص أنجرة",
+  "region": "جهة طنجة تطوان الحسيمة",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة وجدة أنكاد",
+  "province_name": "عمالة وجدة أنكاد",
+  "region": "جهة الشرق",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "إقليم الناظور",
+  "province_name": "إقليم الناظور",
+  "region": "جهة الشرق",
+  "province_type": "إقليم"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة فاس",
+  "province_name": "عمالة فاس",
+  "region": "جهة فاس مكناس",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة مكناس",
+  "province_name": "عمالة مكناس",
+  "region": "جهة فاس مكناس",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة الرباط",
+  "province_name": "عمالة الرباط",
+  "region": "جهة الرباط سلا القنيطرة",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة سلا",
+  "province_name": "عمالة سلا",
+  "region": "جهة الرباط سلا القنيطرة",
+  "province_type": "عمالة"
+ },
+ {
+  "doctype": "الاقليم",
+  "name": "عمالة القنيطرة",
+  "province_name": "عمالة القنيطرة",
+  "region": "جهة الرباط سلا القنيطرة",
+  "province_type": "عمالة"
+ }
+]

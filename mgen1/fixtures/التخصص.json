@@ -1,0 +1,72 @@
+[
+ {
+  "doctype": "التخصص",
+  "name": "الرياضيات",
+  "specialization_name": "الرياضيات"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الفيزياء الكيمياء",
+  "specialization_name": "الفيزياء الكيمياء"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "علوم الارض",
+  "specialization_name": "علوم الارض"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الاعلاميات",
+  "specialization_name": "الاعلاميات"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "العربية",
+  "specialization_name": "العربية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الفرنسية",
+  "specialization_name": "الفرنسية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الإنجليزية",
+  "specialization_name": "الإنجليزية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الاجتماعيات والجغرافيا",
+  "specialization_name": "الاجتماعيات والجغرافيا"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "التربية الاسلامية",
+  "specialization_name": "التربية الاسلامية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الفلسفة",
+  "specialization_name": "الفلسفة"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "الاقتصاد",
+  "specialization_name": "الاقتصاد"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "أنشطة علمية",
+  "specialization_name": "أنشطة علمية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "التربية الفنية",
+  "specialization_name": "التربية الفنية"
+ },
+ {
+  "doctype": "التخصص",
+  "name": "التربية البدنية",
+  "specialization_name": "التربية البدنية"
+ }
+]

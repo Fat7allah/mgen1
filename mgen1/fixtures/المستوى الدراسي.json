@@ -1,0 +1,26 @@
+[
+ {
+  "doctype": "المستوى الدراسي",
+  "name": "بكالوريا",
+  "level_name": "بكالوريا",
+  "level_order": 1
+ },
+ {
+  "doctype": "المستوى الدراسي",
+  "name": "إجازة",
+  "level_name": "إجازة",
+  "level_order": 2
+ },
+ {
+  "doctype": "المستوى الدراسي",
+  "name": "ماستر",
+  "level_name": "ماستر",
+  "level_order": 3
+ },
+ {
+  "doctype": "المستوى الدراسي",
+  "name": "دكتوراة",
+  "level_name": "دكتوراة",
+  "level_order": 4
+ }
+]

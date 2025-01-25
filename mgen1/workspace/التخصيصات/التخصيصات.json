@@ -1,0 +1,73 @@
+{
+ "cards": [
+  {
+   "card": "الهياكل والمناطق",
+   "chart_name": null,
+   "hidden": 0,
+   "label": "الهياكل والمناطق",
+   "links": "[\n    {\n        \"label\": \"الهيكل\",\n        \"name\": \"الهيكل\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    },\n    {\n        \"label\": \"الجهة\",\n        \"name\": \"الجهة\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    },\n    {\n        \"label\": \"الاقليم\",\n        \"name\": \"الاقليم\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    }\n]"
+  },
+  {
+   "card": "المهن والتخصصات",
+   "chart_name": null,
+   "hidden": 0,
+   "label": "المهن والتخصصات",
+   "links": "[\n    {\n        \"label\": \"المهنة\",\n        \"name\": \"المهنة\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    },\n    {\n        \"label\": \"التخصص\",\n        \"name\": \"التخصص\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    }\n]"
+  },
+  {
+   "card": "المستويات الدراسية",
+   "chart_name": null,
+   "hidden": 0,
+   "label": "المستويات الدراسية",
+   "links": "[\n    {\n        \"label\": \"المستوى الدراسي\",\n        \"name\": \"المستوى الدراسي\",\n        \"onboard\": 1,\n        \"type\": \"doctype\",\n        \"count\": true\n    }\n]"
+  }
+ ],
+ "charts": [],
+ "creation": "2025-01-23 16:28:21.000000",
+ "developer_mode_only": 0,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends": "",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "setting-gear",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "التخصيصات",
+ "links": [],
+ "modified": "2025-01-23 16:28:21.000000",
+ "modified_by": "Administrator",
+ "module": "التسيير",
+ "name": "التخصيصات",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "الهيكل",
+   "link_to": "الهيكل",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "الجهة",
+   "link_to": "الجهة",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "المهنة",
+   "link_to": "المهنة",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ]
+}

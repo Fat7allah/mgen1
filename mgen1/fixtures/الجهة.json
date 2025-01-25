@@ -1,0 +1,74 @@
+[
+ {
+  "doctype": "الجهة",
+  "name": "جهة طنجة تطوان الحسيمة",
+  "region_name": "جهة طنجة تطوان الحسيمة",
+  "region_code": "TTH"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة الشرق",
+  "region_name": "جهة الشرق",
+  "region_code": "OR"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة فاس مكناس",
+  "region_name": "جهة فاس مكناس",
+  "region_code": "FM"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة الرباط سلا القنيطرة",
+  "region_name": "جهة الرباط سلا القنيطرة",
+  "region_code": "RSK"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة بني ملال خنيفرة",
+  "region_name": "جهة بني ملال خنيفرة",
+  "region_code": "BMK"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة الدار البيضاء سطات",
+  "region_name": "جهة الدار البيضاء سطات",
+  "region_code": "CBS"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة مراكش آسفي",
+  "region_name": "جهة مراكش آسفي",
+  "region_code": "MS"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة درعة تافيلالت",
+  "region_name": "جهة درعة تافيلالت",
+  "region_code": "DT"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة سوس ماسة",
+  "region_name": "جهة سوس ماسة",
+  "region_code": "SM"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة كلميم واد نون",
+  "region_name": "جهة كلميم واد نون",
+  "region_code": "GWN"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة العيون الساقية الحمراء",
+  "region_name": "جهة العيون الساقية الحمراء",
+  "region_code": "LSH"
+ },
+ {
+  "doctype": "الجهة",
+  "name": "جهة الداخلة وادي الذهب",
+  "region_name": "جهة الداخلة وادي الذهب",
+  "region_code": "DWD"
+ }
+]

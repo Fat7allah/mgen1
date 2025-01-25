@@ -1,0 +1,189 @@
+{
+ "actions": [],
+ "allow_rename": 0,
+ "autoname": "format:INC-{#####}",
+ "creation": "2025-01-23 16:25:49.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "transaction_info_section",
+  "type",
+  "description",
+  "date",
+  "academic_year",
+  "column_break_1",
+  "region",
+  "province",
+  "section_break_1",
+  "amount_info_section",
+  "count",
+  "amount",
+  "column_break_2",
+  "total_amount",
+  "section_break_2",
+  "shares_section",
+  "office_share",
+  "region_share",
+  "province_share",
+  "section_break_3",
+  "note"
+ ],
+ "fields": [
+  {
+   "fieldname": "transaction_info_section",
+   "fieldtype": "Section Break",
+   "label": "معلومات المعاملة"
+  },
+  {
+   "fieldname": "type",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "النوع",
+   "options": "بطائق\nاخرى",
+   "reqd": 1
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "الوصف",
+   "reqd": 1
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "التاريخ",
+   "reqd": 1
+  },
+  {
+   "fieldname": "academic_year",
+   "fieldtype": "Data",
+   "label": "الموسم الدراسي",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_1",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "region",
+   "fieldtype": "Link",
+   "label": "الجهة",
+   "options": "الجهة",
+   "reqd": 1
+  },
+  {
+   "fieldname": "province",
+   "fieldtype": "Link",
+   "label": "الإقليم",
+   "options": "الاقليم",
+   "reqd": 1
+  },
+  {
+   "fieldname": "section_break_1",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "amount_info_section",
+   "fieldtype": "Section Break",
+   "label": "معلومات المبلغ"
+  },
+  {
+   "fieldname": "count",
+   "fieldtype": "Int",
+   "label": "العدد",
+   "reqd": 1
+  },
+  {
+   "fieldname": "amount",
+   "fieldtype": "Currency",
+   "label": "المبلغ",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_2",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "total_amount",
+   "fieldtype": "Currency",
+   "label": "المجموع",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_break_2",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "shares_section",
+   "fieldtype": "Section Break",
+   "label": "توزيع الحصص"
+  },
+  {
+   "fieldname": "office_share",
+   "fieldtype": "Currency",
+   "label": "حصة المكتب (50%)",
+   "read_only": 1
+  },
+  {
+   "fieldname": "region_share",
+   "fieldtype": "Currency",
+   "label": "حصة الجهة (20%)",
+   "read_only": 1
+  },
+  {
+   "fieldname": "province_share",
+   "fieldtype": "Currency",
+   "label": "حصة الإقليم (30%)",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_break_3",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "note",
+   "fieldtype": "Small Text",
+   "label": "ملاحظة"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-23 16:25:49.000000",
+ "modified_by": "Administrator",
+ "module": "التسيير",
+ "name": "المداخل",
+ "name_case": "",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 1,
+ "track_seen": 1
+}
