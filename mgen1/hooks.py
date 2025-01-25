@@ -69,6 +69,34 @@ reports = [
     }
 ]
 
+# Includes in <head>
+# ------------------
+
+# include js, css files in header of desk.html
+app_include_css = "/assets/mgen1/css/mgen1.css"
+app_include_js = "/assets/mgen1/js/mgen1.bundle.js"
+
+# include js, css files in header of web template
+# web_include_css = "/assets/mgen1/css/mgen1.css"
+# web_include_js = "/assets/mgen1/js/mgen1.js"
+
+# include custom scss in every website theme (without file extension ".scss")
+# website_theme_scss = "mgen1/public/scss/website"
+
+# include js, css files in header of web form
+# webform_include_js = {"doctype": "public/js/doctype.js"}
+# webform_include_css = {"doctype": "public/css/doctype.css"}
+
+# include js in page
+# page_js = {"page" : "public/js/file.js"}
+
+# include js in doctype views
+doctype_js = {
+    "عضو": "public/js/عضو.js",
+    "المداخل": "public/js/المداخل.js",
+    "المصارف": "public/js/المصارف.js"
+}
+
 # Translation
 translation_modules = ["mgen1"]
 required_apps = ["frappe"]

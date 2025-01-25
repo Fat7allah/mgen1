@@ -1,0 +1,25 @@
+/* Custom styles for mgen1 app */
+.workspace-icon {
+    font-size: 1.5em;
+}
+
+/* RTL support for workspace cards */
+[data-page-route="التخصيصات"],
+[data-page-route="التسيير"] {
+    direction: rtl;
+}
+
+/* Chart colors */
+.chart-container {
+    direction: rtl;
+}
+
+.chart .dataset-units .primary {
+    fill: var(--primary);
+    stroke: var(--primary);
+}
+
+.chart .dataset-units .secondary {
+    fill: var(--primary-color);
+    stroke: var(--primary-color);
+}
