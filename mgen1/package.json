@@ -1,0 +1,16 @@
+{
+  "name": "mgen1",
+  "version": "1.0.0",
+  "description": "Frappe application for mgen1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frappe"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
