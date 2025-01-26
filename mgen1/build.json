@@ -1,7 +1,7 @@
 {
   "js/mgen1.js": [
-    "public/js/المصارف.js",
-    "public/js/المداخل.js"
+    "public/js/masaref.js",
+    "public/js/madakhel.js"
   ],
   "css/mgen1.css": [
     "public/css/mgen1.css"
