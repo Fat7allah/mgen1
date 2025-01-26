@@ -1,0 +1,9 @@
+{
+  "js/mgen1.js": [
+    "public/js/المصارف.js",
+    "public/js/المداخل.js"
+  ],
+  "css/mgen1.css": [
+    "public/css/mgen1.css"
+  ]
+}
